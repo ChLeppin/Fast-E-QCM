@@ -43,3 +43,6 @@ The following people have contributed:
 - Christian Leppin (christian.leppin(at)tu-clausthal.de)
 - Frederick Sebastian Meyer
 - Diethelm Johannsmann  
+
+# Licence 
+This project is licensed under CC BY 4.0. 
